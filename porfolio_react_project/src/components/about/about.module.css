@@ -1,0 +1,17 @@
+.about {
+    padding: 20px;
+    background-color: #B3BDB4;
+    border: 1px solid #EF777E;
+    border-radius: 5px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.about h2 {
+    color: #EF777E;
+    font-size: 22px;
+}
+
+.about p {
+    color: black;
+}

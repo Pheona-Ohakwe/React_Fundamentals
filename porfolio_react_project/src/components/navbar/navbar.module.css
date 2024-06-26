@@ -1,0 +1,22 @@
+navbar {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+display: flex;
+justify-content: center;
+align-items: center;
+width: 100%;
+padding: 10px;
+background-color: #B3BDB4;
+margin-top: 0px;
+border: 1px solid #EF777E;
+border-radius: 5px;
+}
+
+.navbar a {
+color:#EF777E;
+font-weight: bold;
+font-size: 22px;
+}
+
+.navbar a:hover {
+color: black;
+}

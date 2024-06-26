@@ -1,0 +1,18 @@
+contact {
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 20px;
+background-color: #B3BDB4;
+border: 1px solid #EF777E;
+border-radius: 4px;
+text-align: center;
+max-width: 300px;
+margin: auto;
+}
+
+.contact p {
+margin: 0;
+color:black;
+font-size: 16px;
+}

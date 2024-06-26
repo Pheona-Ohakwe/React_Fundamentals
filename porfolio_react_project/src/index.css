@@ -1,0 +1,32 @@
+ody {
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+margin: 0;
+padding: 0;
+display: flex;
+flex-direction: column;
+min-height: 100vh;
+}
+
+#body {
+flex: 1;
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+.main-content {
+display: flex;
+flex-direction: column;
+align-items: center;
+width: 100%;
+max-width: 800px;
+padding: 20px;
+}
+
+#gallery {
+padding: 20px;
+background-color: #B3BDB4;
+margin-top: 50px;
+border-radius: 5px;
+border: 1px solid #EF777E;
+}
